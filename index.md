@@ -20,7 +20,7 @@
 
 
 <script>
-  alert("Hello World")
+  alert("v1.0")
   var v_side=document.getElementById("sidebar")
   v_side.innerHtml="<p>Hello World</p>"
 </script>
